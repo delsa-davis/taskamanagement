@@ -1,4 +1,4 @@
-# [Taskly] 🎯
+# Taskly 🎯
 
 
 ## Basic Details
@@ -23,8 +23,8 @@ Hosting a Simple Userfriendly website for Task Management!
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML,Javascript,CSS]
-- []
+- HTML,Javascript,CSS
+-
 - [Libraries used]
 - [Tools used]
 
