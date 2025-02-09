@@ -2,7 +2,7 @@
 
 
 ## Basic Details
-### Team Name: [Delsa Davis]
+### Team Name: Delsa Davis
 
 
 ### Team Members
@@ -12,18 +12,18 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+My project is a To-Do List website which helps the user to add,delete and update their Day to day Tasks.
 
 ### The Problem statement
-[People often struggle with organizing tasks,forgetting important events and managing time Efficiently.]
+People often struggle with organizing tasks,forgetting important events and managing time Efficiently.
 
 ### The Solution
-[Hosting a Simple Userfriendly website for Task Management!]
+Hosting a Simple Userfriendly website for Task Management!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- []
+- [HTML,Javascript,CSS]
 - []
 - [Libraries used]
 - [Tools used]
