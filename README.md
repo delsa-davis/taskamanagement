@@ -9,7 +9,7 @@
 - Member 1: [Delsa DAvis] - [RIT]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://taskamanagement-seven.vercel.app/
 
 ### Project Description
 My project is a To-Do List website which helps the user to add,delete and update their Day to day Tasks.
