@@ -1,14 +1,12 @@
-# [Project Name] 🎯
+# [Taskly] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Delsa Davis]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Delsa DAvis] - [RIT]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
@@ -17,16 +15,16 @@
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[People often struggle with organizing tasks,forgetting important events and managing time Efficiently.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[Hosting a Simple Userfriendly website for Task Management!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- []
+- []
 - [Libraries used]
 - [Tools used]
 
