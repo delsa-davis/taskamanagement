@@ -34,7 +34,6 @@ Hosting a Simple Userfriendly website for Task Management!
 For Software:
 - HTML,Javascript,CSS
 - Font Awsome,Local Storage API
-- 
 ### Implementation
 For Software:
 ### Project Documentation
