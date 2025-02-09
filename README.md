@@ -37,23 +37,17 @@ For Software:
 - 
 ### Implementation
 For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](\Users\delsa\OneDrive\Pictures\Desktop\taskmanager\front.png)
+![Screenshot1](/front.png)
 *This is the Home page of the website.*
 
-![Screenshot2](C:\Users\delsa\OneDrive\Pictures\Desktop\taskmanager\addtask.png)
+![Screenshot2](/addtask.png)
 *Add button is used to add tasks to the list*
 
-![Screenshot3](C:\Users\delsa\OneDrive\Pictures\Desktop\taskmanager\marktask.png)
+![Screenshot3](/marktask.png)
 *delete button used to delete unwanted tasks*
 
 
